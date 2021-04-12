@@ -1,0 +1,7 @@
+Algorithm for prime or not
+1) Start
+2)input the number
+3)if the number is divisible by itself and  1 then the number is prime
+else the number is not prime
+4)print the reult
+5)End

@@ -1,0 +1,9 @@
+Algorithm for largest among three number
+1) START
+2)Input the number a,b,c
+3) compare the number if a>b && a>c
+      a is largest 
+4)elseif b>a &&b>c then b is largest else
+5)c is largest
+6)print c is largest
+7)END

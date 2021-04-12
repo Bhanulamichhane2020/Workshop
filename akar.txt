@@ -1,0 +1,27 @@
+PERN stack
+
+MERN   MONGO DB  , express, react, node.
+postgrasql,
+
+
+git status: to get current status branch, recent changes.
+
+git checkout<branchname> with-b 
+
+git add <filename>
+
+git add
+
+git commit -m"commitmessage"
+
+git push origin<branchname>
+
+
+to fix conflict
+git checkout development
+
+git pull
+git checkout feature/login
+git rebase development
+git rebase --continue
+git push origin feature/login
